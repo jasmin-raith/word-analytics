@@ -3,7 +3,7 @@ import Textarea from "./Textarea";
 
 export default function Container() {
   return (
-    <main>
+    <main className="container">
       <Textarea />
       <Stats />
     </main>

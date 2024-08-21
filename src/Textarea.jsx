@@ -1,3 +1,3 @@
 export default function Textarea() {
-  return <textarea />;
+  return <textarea className="textarea" />;
 }
